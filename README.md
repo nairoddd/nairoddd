@@ -12,4 +12,4 @@
 - 🏢 I'm currently working at **WebForce3**
 - 🌍 Dev News: [feedly.com](https://feedly.com/)
 - 💬 Ping me about **design**, **branding**, **development**
-- 📫 Reach me: [https://www.linkedin.com/in/dorian-villers/](https://www.linkedin.com/in/dorian-villers/)
+- 📫 Reach me: [my linkedin](https://www.linkedin.com/in/dorian-villers/)
