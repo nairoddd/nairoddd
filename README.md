@@ -13,3 +13,8 @@
 - 🌍 Dev News: [feedly.com](https://feedly.com/)
 - 💬 Ping me about **design**, **branding**, **development**
 - 📫 Reach me: [my linkedin](https://www.linkedin.com/in/dorian-villers/)
+
+
+#### Stats visiting
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nairoddd" alt="nairoddd" /> </p>
