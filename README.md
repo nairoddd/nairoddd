@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ I'm working on my **portfolio** 
-- 🍑 Improve my knowledge of `node.js`, `react`
+- 🍑 Improve my knowledge of `Laravel`, `react`
 
 ##### BIO
 
